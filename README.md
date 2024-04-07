@@ -6,6 +6,4 @@ This web app: **This web app: This innovative application leverages the robust c
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
 ![Website Demo](/src/assets/brew.gif)
